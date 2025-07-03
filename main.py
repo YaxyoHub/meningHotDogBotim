@@ -1,6 +1,4 @@
-import os
-import asyncio
-import logging
+import os, asyncio, logging
 from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
 from aiogram.client.default import DefaultBotProperties
